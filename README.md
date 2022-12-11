@@ -1,2 +1,2 @@
 # dissertation_datasets
-Datasets of human navigating int he presence of moving robot
+Datasets of human navigating in the presence of moving robot
